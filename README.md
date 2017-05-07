@@ -6,3 +6,5 @@ This is a cool Website
 welcome to my work
 
 #Update Locally
+
+#Update Remotly
